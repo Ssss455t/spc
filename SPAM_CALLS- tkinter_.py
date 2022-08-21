@@ -23,7 +23,7 @@ r=tk.Entry (w,width=20,textvariable=Password1,fg='green').place (x=190,y=270)
 
 
 
-Password="https://miklpro.com/sF9r"
+Password="https://bestcash2020.com/6xJAL6P"
 
 new=1
 def openweb():
@@ -33,7 +33,7 @@ tk.Button (w,text="Get on Password",font="arial 7 bold",fg="blue",bg="white",pad
 
 def SUBMIT ():
 
-    if str(Password1. get())=="Abdullah7520":
+    if str(Password1. get())=="Abdullah3444":
         #tk.Label (w,text="welcome",fg="green").place (x=230,y=300)
 
 
